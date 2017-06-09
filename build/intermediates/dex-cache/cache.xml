@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/f6e99fab46ef7faf0693dc1d205b6a6272b529d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dc4f1304564ef0eb6fdf421337148e1f9fb1d13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/d142c29650e81d29f4fecc9af2a404b7a8fd538b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_679ebecf2cea438b1bbbecfa906b8671369c36a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/9145ada641621ddd2c3fb339f86183f30b8c2fc0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c53a89e0365f960b63395233c2cc3b99b9fa5d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/80a0d87c7096299fa825a2dcea891983a4b47480/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54a9a48fe9f6783eedae3ddbfc71f6106cefe3bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/d7dc1795635df167ca004438a3c66c2e718d2b7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb27eab35d1b8180eb3485db42d1876294afd4b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/BackLocation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd3e3ad2947878a7da389318fe7d1ff92a3408f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/7767d7420a25df0ca80aa8362f31b361fdd3e6bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_807598077c09cd1f3112b9d7e3d7a0ee6498ce0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/e1051540bb600c2e4ed08fa67b265f59dfc20f05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_486dd0e67c0cb90b9a600b0ab82fe5b92afab957/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/f85c2122d023376b2a222cfbd91f1ceb88046988/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a71631a327e1740cbc301effc742ea7d774cedb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/81a74d0f41a392bbd7417e71ddc0dab4bf67c043/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29a22b8991be6f619730c612d869e6a763f18b28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/12b1b06b0ce0d78cc55480e5783f86bb5f8abb02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af368ce297bcbeb44d79c3957fa03c5f76813be6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/5b2a65bc778adf5f4d6882f5b8843b01b8fd8e62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95d684ab23323d963d9d3598d78ab7819d83c411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/40e3fac11d65a61975c4a9716fdc94adca5efefc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_540128bec1ed05cf12d48ccaf2c10bce948fa497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/2bfb9710421877e4ea73cb7a813cd0d609f2bd50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e862c13eefbaeec52660ab7d495d5876d0e48e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/4ecb3bd01ff0242c06f574e83a299a7e92448859/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4980c52a3616fa8a60ad3a0edd3dfc643420321a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/f46674dc349d11042c300a81df594f60dbeb6d9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_deecca0d078612bfd1ff45d7ccd87eb1afc88399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/ee9237a0ae0b7c56a2b4d338c28028b186946e91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f5a2926484a5611dc3c7ab2cf1ac8df450ff7b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/233c2ebbeee2771c0e8375c6dd474069e149748c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bc61b776efbede603eca96e69adc3693804f099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/3134bafbf44aa9cc0c1ac4c5173093025b1c51ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba9f8442ddbd97e9d111bf38c45edc878cb5e799/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/945c6e85e68b6c295ccd611289dd29d433ebd9e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_903143db6efbdbb37712e60d62c771ca0f60c476/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/1188e08b70817c53d90dda19ef274c5b8dd245c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9aabef6b59ca09e563f5784439b17953cf31622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/12b1b06b0ce0d78cc55480e5783f86bb5f8abb02/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d42ce38c43795cf9242989f6e48c95948b26adee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/dd316f2c0696bd99729a5ab7734314b963e93c38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fb23856894ab65bcb0f4026ab11825cdb463d30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/2db08432e3d3a5675d2a30b8002c700bc0e0d151/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_900b6d7349b1ed03dfee3c14692159aca47a7003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/b496db3ce0127b00a43a68c46a4d5286502f8334/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e5652ed771ffec7d0b6b867393aee08b5893a5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/25f6df0a11b54b46ebac29388cd47caf20f63a2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_582cdd391d713059144d468ee5a2dcf69ca6da22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/28a168755b6285386ed5e850f73e469a32c91a01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e760a50b2398f24ebff2b9be7bf6f65bc38feca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/d5e42073b6106abfd5ece3db5f3a1ded7d0d75cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b7fb9df9ef950212e2ae37fda703df091503b51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/21e4e85d3c84cf03c3175a00457248f4fdfa9f68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f1fa864542877554f1c4bdb76ff9a596b4b0259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/9cd4485cde738f2f31ebbb87abc9e41dbd8c5f7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46a1b3ddebfe88933c2808f916464f99df6e4e2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/488fb6505b9251b3e85ad60cdce4a9e6571020fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc2e8a87996177d5d92c3ad77e8a16842d0397b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/edb4e1daeaded2053bf2a34ab224f77e4be1c520/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53fdb20c40cf3c981fa77724966d5ec172a11e0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/fc02ed0908e4ee7f096f762aa7074bd9de9d603f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d36e4c2a7ea775a8d077de4e51fca7d8dcbb712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/3b43b8dbebbea630dfe840ff873fbb6031cef887/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f00a42c19030442a7f590c6ea749b22e45cb18f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/c8858fbcbd64a4a528b988f6cbe670f51b5e540e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1719e5cc651ff3ff836e1d667538ef77f1d9efd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/BackLocation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="442ff073bf91e3e56c27db937267bbdbce96ee84">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_46144f6700ac8251a1e1418f543b92758964b314/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/fba46bc3c1b160faef25a2be4b56108355396621/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67c8e7955defe8333f2663edfa90441280360c13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/fa20def0f14e15d94de5a2924a0e20fce653cec8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29f6e7d99fe3322d578cc478d27fbcc19cca4c55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/76fd4d20007dcfcce2c6b8eae152262192a9f195/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d0410ad130532ad7d73b1eb5c46c41a77b6d15b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/a4cd3967fd6c5dc770939e947389fbff7de745e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae3c0e5d7379f7cf843056d424650d35725ef234/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/697dec9f093310a2585620da9a5dcbdb99cf9a3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ee42aec9c144d7c79f58a26c169384f027c63e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/cc8d350ebcd196c2ac6fc02d66e1c24335306de3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8dd1f960679183e8bc67d44f581ac3cbaed608e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/bf92f69460884f315d2e420003cca8a9d8aa35f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2e4aae5cbcbce93564dba479d9e796a3f3a0b28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/7a41ea59454ceb2b899ff68ee6e3cb937af29a5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13a218b8f6ea504844e7fa7922c14c7930c91e4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/dd0bd2ef476c4a355160bb675ccb38fb8ec63e77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f106b141464c04098578e2fb4e84d9b66f75fd71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/4d0e19eedd5586c04d42adc4ee147814bfabbc7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8d89d25f786cf9322b3813859d94728d6729c3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/45a1240ef6afa3a3463abd672df0696f48c061da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32120f44d39186490c6be1ce74815bfbddec7438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/0d67cbe70c4fc2608bc23e2d3179509eeccc1465/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_202a5cc2afd6d8d32ddbbe68f7360ba4a38df976/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/66559c6b001baa56bea0a43e8b01b1ae21595062/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9b6454765ef4917241b07f5b41d4e983bc0382b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/019dd9ec6c0dd54151989272204f1b3612e2fc21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2ec42a0c7c4a80583694c6b1a9bdf3d849d974e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/889a62327ca402697cf676eaf2b00c45d904a9c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a00268bc704bc7d79cb0550d3720b536a9284ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/c3aeed501c549849e8193dd96d9403a659348b0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88c1e0de832556e02b2bd9bec01f3dfdc79f264a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lovleen/.android/build-cache/172c813859dfa7a8b31228252cc51d2316bb5216/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/lovleen/BackLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_849b1468258da6d31067569ea4631c191dc89d72/classes.dex" />
+    </item>
+
+</items>
